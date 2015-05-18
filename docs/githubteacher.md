@@ -1,4 +1,3 @@
 ### Introduction
 
 **Name:** GitHub Teacher
-
