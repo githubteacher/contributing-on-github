@@ -1,3 +1,3 @@
-### Introduction
+### Intro
 
-**Name:** GitHub Teacher
+Name: [Enter your name here]
